@@ -1,0 +1,14 @@
+{
+  // use intellisense to learn about possible attributes.
+  //Hover to view discretions of existing attributes.
+  // for more information, visit
+"version": "0.2.0"
+"configuration": [
+  {
+    "type": "pwa-chrome"
+    "request": "lunch"
+    "name": "Group5.html"; "Group5.css"; "Gadgets.html"
+    "file"
+  }
+  ]
+}
